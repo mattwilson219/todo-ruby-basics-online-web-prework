@@ -2,8 +2,8 @@ def division(num1, num2)
  36 / 6
 end
 
-def assign_variable(value)
-  puts value("Bob")
+def assign_variable(name)
+  puts name("Bob")
 end
 
 def argue
