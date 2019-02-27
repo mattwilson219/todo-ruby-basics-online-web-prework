@@ -22,6 +22,7 @@ def return_a_value (string = "Nice")
 end
 
 def last_evaluated_value
+  "expert"
 
 end
 
