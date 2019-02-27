@@ -1,9 +1,9 @@
 def division(num1, num2)
- 42 / 7
+42 / 7
 end
 
-def assign_variable(name)
-  puts "#{name}"
+def assign_variable(value)
+  puts "#{value}"
 end
 
 def argue
